@@ -191,3 +191,4 @@ The repository includes a detailed **Secure Coding Review Report** documenting:
 ## ⚠️ Disclaimer
 
 This project is intended for educational purposes to demonstrate secure coding review techniques and static code analysis using Bandit.
+
